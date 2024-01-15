@@ -1,0 +1,15 @@
+{
+  "name": "48_htmlt_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4804",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aina Einikyte (https://github.com/AinaEin)",
+  "license": "ISC",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
